@@ -77,8 +77,3 @@ Explore the extracted features using Features_extraction.py.
 View the model architectures in the model_images folder.
 
 Feel free to modify and adapt the code to suit your specific requirements.
-
-License
-This project is provided under the MIT License.
-
-For any questions or concerns, please contact [your email address].
